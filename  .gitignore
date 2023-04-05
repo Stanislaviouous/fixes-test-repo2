@@ -319,8 +319,6 @@ __pycache__/
 # tools/**
 # !tools/packages.config
 
-secret.txt
-
 # Tabs Studio
 *.tss
 
